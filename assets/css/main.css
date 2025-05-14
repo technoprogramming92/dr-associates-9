@@ -1682,7 +1682,8 @@ textarea {
   }
 }
 .tgmenu__nav .logo img {
-  max-height: 34px;
+  max-height: 80px;
+  width:192px;
 }
 .tgmenu__navbar-wrap {
   display: -webkit-box;
@@ -2247,7 +2248,7 @@ textarea {
   text-align: left;
 }
 .tgmobile__menu .nav-logo img {
-  max-height: 34px;
+  max-height: 95px;
 }
 .tgmobile__menu .navigation {
   position: relative;
